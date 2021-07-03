@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtsiomMatlash/NodeJsTest.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Artsiom Matlash <boomixguy198573@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtsiomMatlash/NodeJsTest/issues"
+  },
+  "homepage": "https://github.com/ArtsiomMatlash/NodeJsTest#readme",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
